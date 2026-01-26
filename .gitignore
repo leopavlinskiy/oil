@@ -6,3 +6,4 @@ docs/
 
 # Системные файлы
 .DS_Store
+.obsidian
